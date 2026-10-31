@@ -1,0 +1,10 @@
+{
+  "classes": [
+    "glioma",
+    "meningioma",
+    "notumor",
+    "pituitary"
+  ],
+  "accuracy": 0.556875,
+  "f1": 0.5310889274572609
+}
